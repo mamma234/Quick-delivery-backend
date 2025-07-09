@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Fast Bites",
+    "address": "123 Main St",
+    "location": { "type": "Point", "coordinates": [77.5946, 12.9716] },
+    "menu": [
+      { "name": "Veg Burger", "price": 80 },
+      { "name": "Paneer Wrap", "price": 120 }
+    ]
+  },
+  {
+    "name": "Quick Pizza",
+    "address": "456 Side St",
+    "location": { "type": "Point", "coordinates": [77.5947, 12.9720] },
+    "menu": [
+      { "name": "Margherita", "price": 150 },
+      { "name": "Farmhouse", "price": 200 }
+    ]
+  }
+]
